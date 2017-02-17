@@ -32,14 +32,16 @@
   * (a) True
   * (b) False
 
-6. The Dijkstra algorithm for finding the shortest paths involves the traversal of nodes in an order similar to:   * (a) Breadth first search
+6. The Dijkstra algorithm for finding the shortest paths involves the traversal of nodes in an order similar to:
+  * (a) Breadth first search
   * (b) Depth first search
   * (c)Topological sort
   * (d) None of these
 
 7. Which of the following statements is true? (The total number of push/pop/enque/deque calls made should not depend on the number of elements in the stack or queue)
   * (a) A queue can be created using two stack data-structures.
-  * (b) A stack can be created using two queue data-structures.   * (c)Both the above statements (a and b) are true.
+  * (b) A stack can be created using two queue data-structures.
+  * (c) Both the above statements (a and b) are true.
   * (d) Both the above statements (a and b) are false.
 
 8. A union find data-structure is commonly applied while implementing:
